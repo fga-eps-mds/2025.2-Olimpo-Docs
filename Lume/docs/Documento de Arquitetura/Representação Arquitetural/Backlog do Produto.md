@@ -1,0 +1,5 @@
+# **Backlog do Produto**
+
+Em linhas gerais, o sistema permitirá o cadastro de dois tipos principais de usuários (Estudantes e Investidores), cada um com perfis e informações específicas. Os usuários poderão se autenticar, gerenciar seus perfis, e (dependendo do tipo) cadastrar ideias/projetos ou buscar/visualizar projetos de interesse. Funcionalidades de comunicação ou manifestação de interesse entre as partes podem ser incluídas. O backlog completo e dinâmico é mantido na ferramenta Zenhub.
+
+A necessidade de gerenciar diferentes tipos de usuários com permissões distintas e a natureza interativa da plataforma (cadastro, busca, visualização) influenciaram diretamente a escolha da arquitetura Cliente-Servidor e a utilização do Spring Security no back-end para controle de acesso. A familiaridade da equipe com as tecnologias Java/Spring e React também foi um fator na escolha.

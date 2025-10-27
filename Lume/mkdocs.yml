@@ -1,0 +1,50 @@
+site_name: Documentos Lume
+
+nav:
+  - Quadro de conhecimentos: 
+    - Quadro de conhecimentos: Quadro de conhecimentos/Quadro de Conhecimento.md
+  
+  - Documento de visão: 
+    - Visão geral do produto:
+      - 1.1 Problema: Documento de Visão do Produto/Visao geral do produto/Problema.md
+      - 1.2 Declaração de Posição do Produto: Documento de Visão do Produto/Visao geral do produto/Declaração de Posição do Produto.md
+      - 1.3 Objetivos do Produto: Documento de Visão do Produto/Visao geral do produto/Objetivos.md
+      - 1.4 Tecnologias a Serem Utilizadas: Documento de Visão do Produto/Visao geral do produto/Tecnologias.md
+    - Visão geral do projeto:
+      - 2.1 Ciclo de vida do projeto de desenvolvimento de software: Documento de Visão do Produto/Visão Geral do Projeto/Ciclo de vida.md
+      - 2.2 Organização do Projeto: Documento de Visão do Produto/Visão Geral do Projeto/Organização.md
+      - 2.3 Planejamento das Fases e/ou Iterações do Projeto: Documento de Visão do Produto/Visão Geral do Projeto/Planejamento das Fases.md
+      - 2.4 Matriz de Comunicação: Documento de Visão do Produto/Visão Geral do Projeto/Matriz de Comunicacao.md
+      - 2.5 Gerenciamento de Riscos: Documento de Visão do Produto/Visão Geral do Projeto/Gerenciamento de Riscos.md
+      - 2.6 Critérios de Replanejamento: Documento de Visão do Produto/Visão Geral do Projeto/Critérios de Replanejamento.md
+    - Processo de desenvolvimento de software: Documento de Visão do Produto/Processo de desenvolvimento de software/Processo de Desenvolvimento.md
+    - Declaração de Escopo do Projeto:
+      - 4.1 Backlog do produto: Documento de Visão do Produto/Declaração de Escopo do Projeto/Backlog.md
+      - 4.2 Perfis: Documento de Visão do Produto/Declaração de Escopo do Projeto/Perfis.md
+      - 4.3 Cenários: Documento de Visão do Produto/Declaração de Escopo do Projeto/Cenarios.md
+      - 4.4 Tabela de Backlog do Produto: Documento de Visão do Produto/Declaração de Escopo do Projeto/Tabela Backlog.md
+    - Métricas e Medições:
+      - 5.1 GQM de Medições: Documento de Visão do Produto/GQM de medições.md
+    - Testes de Software:
+      - 6.1 Estratégia de Testes Contendo: Documento de Visão do Produto/Métricas e Medições/Estrategia Testes.md
+      - 6.2 Roteiro de Teste: Documento de Visão do Produto/Métricas e Medições/Roteiro Teste.md
+    - Referências bibliográficas: Documento de Visão do Produto/Referências bibliográficas/Referencias.md
+  
+  - Documento de arquitetura: 
+    - Introdução:
+      - Propósito: Documento de Arquitetura/Introdução/Proposito.md
+      - Escopo: Documento de Arquitetura/Introdução/Escopo.md
+    - Representação Arquitetural:
+        - Definições: Documento de Arquitetura/Representação Arquitetural/Definicoes.md
+        - Justifique sua escolha: Documento de Arquitetura/Representação Arquitetural/Justifique sua escolha.md
+        - Detalhamento: Documento de Arquitetura/Representação Arquitetural/detalhamento.md
+        - Metas e Restrições Arquiteturais: Documento de Arquitetura/Representação Arquitetural/Metas e Restricoes.md
+        - Backlog do Produto (escopo do produto): Documento de Arquitetura/Representação Arquitetural/Backlog do Produto.md
+        - Visão Lógica: Documento de Arquitetura/Representação Arquitetural/Visão Lógica.md
+        - Visão de Dados (MER): Documento de Arquitetura/Representação Arquitetural/Visão Dados.md
+        - Visão de Implantação: Documento de Arquitetura/Representação Arquitetural/Visão de Implantação.md
+        - Restrições Adicionais: Documento de Arquitetura/Representação Arquitetural/Restrições Adicionais.md
+    - Bibliografia:  Documento de Arquitetura/Bibliografia/Bibliografia.md
+
+theme: 
+  name: material
