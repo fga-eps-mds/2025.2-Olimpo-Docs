@@ -9,3 +9,7 @@ O sistema back-end (Spring Boot) é subdividido logicamente nos seguintes pacote
 - **`com.olimpo.config`:** Contém classes de configuração do Spring (ex: `SecurityConfig.java` com beans `@Configuration` e `@Bean`).
 - **`com.olimpo.exception`** Contém classes de exceção customizadas.
 - **`com.olimpo.handler`** Contém o `@ControllerAdvice` para tratamento global de exceções.
+
+## Comunicação dos Pacotes
+
+![diagrama_pacotes](../../assets/diagrama_pacotes.jpg)
