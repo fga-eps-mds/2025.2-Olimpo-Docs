@@ -1,4 +1,4 @@
-# Critérios de Replajenamento 
+# **Critérios de Replajenamento**
 
 O projeto Lume adota critérios claros para replanejamento sempre que necessário, com o objetivo de minimizar impactos nos prazos e na qualidade das entregas. As principais fontes de necessidade de replanejamento são os riscos identificados no projeto, especialmente aqueles com grau de exposição médio ou alto, que podem comprometer significativamente o andamento das sprints.
 

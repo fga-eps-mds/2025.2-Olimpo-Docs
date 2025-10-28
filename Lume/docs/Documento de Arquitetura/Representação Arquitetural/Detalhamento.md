@@ -1,8 +1,8 @@
-# Detalhamento
+# **Detalhamento**
 
 A arquitetura geral pode ser representada esquematicamente da seguinte forma:
 
-**Componentes Principais:**
+## **Componentes Principais:**
 
 1.  **Cliente Web (React/Vite):** Responsável pela interface com o usuário (UI) e experiência do usuário (UX). Executa no navegador do usuário.
     - **Responsabilidades:** Renderizar telas, capturar entradas do usuário, fazer requisições HTTP para a API Back-end, exibir dados recebidos.
@@ -14,7 +14,7 @@ A arquitetura geral pode ser representada esquematicamente da seguinte forma:
     - **Responsabilidades:** Persistir dados, garantir integridade referencial, executar consultas SQL.
     - **Comunicação:** Recebe conexões JDBC da API Back-end.
 
-**Tecnologias e Protocolos:**
+## **Tecnologias e Protocolos:**
 
 - Front-end para Back-end: HTTP/JSON sobre TCP/IP.
 - Back-end para Banco de Dados: JDBC sobre TCP/IP.

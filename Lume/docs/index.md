@@ -1,6 +1,6 @@
-# Documentos Lume
+# **Documentos Lume**
 
-## Equipe Olimpo
+## **Equipe Olimpo**
 
 | Nome | Github | Discord | Email | Matrícula |
 |:----:|:------:|:-------:|:-----:|:---------:|

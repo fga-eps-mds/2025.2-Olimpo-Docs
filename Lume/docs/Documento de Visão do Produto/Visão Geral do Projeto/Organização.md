@@ -1,4 +1,4 @@
-# Organização do Projeto
+# **Organização do Projeto**
 
 A organização do Lume é estruturada de forma colaborativa, sem hierarquia entre os membros da equipe. Todos os integrantes compartilham responsabilidades e contribuem de maneira equivalente para o sucesso do projeto. As funções são distribuídas para facilitar o desenvolvimento contínuo do sistema, garantindo que cada participante atue conforme suas competências e habilidades dentro do ciclo de desenvolvimento.
 

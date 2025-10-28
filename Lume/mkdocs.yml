@@ -4,6 +4,9 @@ nav:
   - Quadro de conhecimentos: 
     - Quadro de conhecimentos: Quadro de conhecimentos/Quadro de Conhecimento.md
   
+  - Lean Inception:
+    - Lean Inception (Figma): Lean Inception.md
+  
   - Documento de visão: 
     - Visão geral do produto:
       - 1.1 Problema: Documento de Visão do Produto/Visao geral do produto/Problema.md
@@ -14,7 +17,7 @@ nav:
       - 2.1 Ciclo de vida do projeto de desenvolvimento de software: Documento de Visão do Produto/Visão Geral do Projeto/Ciclo de vida.md
       - 2.2 Organização do Projeto: Documento de Visão do Produto/Visão Geral do Projeto/Organização.md
       - 2.3 Planejamento das Fases e/ou Iterações do Projeto: Documento de Visão do Produto/Visão Geral do Projeto/Planejamento das Fases.md
-      - 2.4 Matriz de Comunicação: Documento de Visão do Produto/Visão Geral do Projeto/Matriz de Comunicacao.md
+      - 2.4 Matriz de Comunicação: Documento de Visão do Produto/Visão Geral do Projeto/Matriz de Comunicação.md
       - 2.5 Gerenciamento de Riscos: Documento de Visão do Produto/Visão Geral do Projeto/Gerenciamento de Riscos.md
       - 2.6 Critérios de Replanejamento: Documento de Visão do Produto/Visão Geral do Projeto/Critérios de Replanejamento.md
     - Processo de desenvolvimento de software: Documento de Visão do Produto/Processo de desenvolvimento de software/Processo de Desenvolvimento.md
@@ -24,11 +27,11 @@ nav:
       - 4.3 Cenários: Documento de Visão do Produto/Declaração de Escopo do Projeto/Cenarios.md
       - 4.4 Tabela de Backlog do Produto: Documento de Visão do Produto/Declaração de Escopo do Projeto/Tabela Backlog.md
     - Métricas e Medições:
-      - 5.1 GQM de medições: Documento de Visão do Produto/GQM de medições.md
+      - 5.1 GQM de medições: Documento de Visão do Produto/Métricas e Medições/GQM de medições.md
     - Testes de software:
-      - 6.1 Estrategia Testes: Documento de Visão do Produto/Métricas e Medições/Estrategia Testes.md
-      - 6.2 Roteiro de Teste: Documento de Visão do Produto/Métricas e Medições/Roteiro Teste.md
-    - Referências bibliográficas: Documento de Visão do Produto/Referências bibliográficas/Referencias.md
+      - 6.1 Estrategia Testes: Documento de Visão do Produto/Testes de software/Estrategia Testes.md
+      - 6.2 Roteiro de Teste: Documento de Visão do Produto/Testes de software/Roteiro Teste.md
+    - Referências bibliográficas: Documento de Visão do Produto/Referências Bibliográficas/Referencias.md
   
   - Documento de arquitetura: 
     - Introdução:
@@ -37,7 +40,7 @@ nav:
     - Representação Arquitetural:
         - Definições: Documento de Arquitetura/Representação Arquitetural/Definicoes.md
         - Justifique sua escolha: Documento de Arquitetura/Representação Arquitetural/Justifique sua escolha.md
-        - Detalhamento: Documento de Arquitetura/Representação Arquitetural/detalhamento.md
+        - Detalhamento: Documento de Arquitetura/Representação Arquitetural/Detalhamento.md
         - Metas e Restrições Arquiteturais: Documento de Arquitetura/Representação Arquitetural/Metas e Restricoes.md
         - Backlog do Produto (escopo do produto): Documento de Arquitetura/Representação Arquitetural/Backlog do Produto.md
         - Visão Lógica: Documento de Arquitetura/Representação Arquitetural/Visão Lógica.md

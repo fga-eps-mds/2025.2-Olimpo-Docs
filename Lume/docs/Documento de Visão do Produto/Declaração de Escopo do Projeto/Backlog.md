@@ -1,4 +1,4 @@
-# Backlog do Produto
+# **Backlog do Produto**
 
 O **backlog do Lume** reúne os requisitos essenciais para o desenvolvimento da plataforma. As funcionalidades de US01 a US18 são **MUST**, obrigatórias para o funcionamento básico, enquanto US19 e US20 são **SHOULD**, desejáveis para agregar valor adicional aos usuários.
 

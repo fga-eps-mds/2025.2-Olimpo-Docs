@@ -1,4 +1,4 @@
-# Justificativa
+# **Justificativa**
 
 A escolha da arquitetura Cliente-Servidor é justificada pela necessidade de separar as responsabilidades da interface do usuário (React) da lógica de negócios e acesso a dados (Spring Boot). Isso permite:
 

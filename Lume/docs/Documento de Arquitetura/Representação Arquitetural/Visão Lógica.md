@@ -1,4 +1,4 @@
-# Visão Lógica
+# **Visão Lógica**
 
 O sistema back-end (Spring Boot) é subdividido logicamente nos seguintes pacotes principais, seguindo o padrão da Arquitetura em Camadas:
 
@@ -10,6 +10,6 @@ O sistema back-end (Spring Boot) é subdividido logicamente nos seguintes pacote
 - **`com.olimpo.exception`** Contém classes de exceção customizadas.
 - **`com.olimpo.handler`** Contém o `@ControllerAdvice` para tratamento global de exceções.
 
-## Comunicação dos Pacotes
+## **Comunicação dos Pacotes**
 
 ![diagrama_pacotes](../../assets/diagrama_pacotes.jpg)

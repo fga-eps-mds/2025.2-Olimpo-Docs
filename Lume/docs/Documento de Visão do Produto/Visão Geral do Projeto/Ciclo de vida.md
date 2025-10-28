@@ -1,4 +1,4 @@
-# Ciclo de vida do projeto de desenvolvimento de software
+# **Ciclo de vida do projeto de desenvolvimento de software**
 
 O ciclo de desenvolvimento do Lume adota uma **abordagem ágil e iterativa**, permitindo que o sistema seja construído gradualmente, com validações constantes junto aos usuários. Antes do desenvolvimento, o projeto passa pela fase de descoberta, em que são levantadas as necessidades do público-alvo, definidos os objetivos do produto e elaborado o backlog inicial de funcionalidades.
 

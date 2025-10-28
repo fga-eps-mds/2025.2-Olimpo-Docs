@@ -1,4 +1,6 @@
-A seguir, são listadas as principais referências bibliográficas e documentações consultadas durante o desenvolvimento do projeto Olimpo. Recomenda-se a formatação final de acordo com as normas da ABNT.
+# **Referências Bibliográficas**
+
+A seguir, são listadas as principais referências bibliográficas e documentações consultadas durante o desenvolvimento do projeto Olimpo.
 
 - **CAROLI, Paulo.** *Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo*. 1. ed. [S.l.]: Editora Caroli, 2018.
 - **DOCKER.** *Docker Documentation*. [S.l.], [2025?]. Disponível em: <https://docs.docker.com/manuals/>. Acesso em: 27 out. 2025.

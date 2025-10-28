@@ -1,4 +1,4 @@
-# Cenários 
+# **Cenários**
 
 Os cenários funcionais abaixo foram organizados conforme os incrementos planejados no desenvolvimento do sistema. Cada cenário representa um conjunto de funcionalidades relacionadas, agrupadas por prioridade de entrega dentro das sprints. 
 

@@ -1,4 +1,4 @@
-# Planejamento das Fases e/ou Iterações do Projeto
+# **Planejamento das Fases e/ou Iterações do Projeto**
 
 O desenvolvimento do Lume segue um ciclo incremental e iterativo, em que cada sprint entrega funcionalidades utilizáveis e testadas. Essa abordagem permite validação contínua com os usuários, garantindo ajustes rápidos conforme o feedback.
 

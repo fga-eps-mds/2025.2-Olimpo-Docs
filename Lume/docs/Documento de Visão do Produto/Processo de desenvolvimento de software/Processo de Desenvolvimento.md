@@ -1,4 +1,4 @@
-# Processo de Desenvolvimento de Software 
+# **Processo de Desenvolvimento de Software**
 
 O processo de desenvolvimento do Lume combina a **metodologia SCRUM**, utilizada para organizar o trabalho em sprints e coordenar entregas, com práticas de **Extreme Programming (XP)** para garantir a qualidade técnica do software. O fluxo de trabalho segue **iterações semanais**, com reuniões de alinhamento aos domingos às 20h e encontros adicionais quando necessário, garantindo que toda a equipe esteja sincronizada quanto ao progresso e às pendências.
 

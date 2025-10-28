@@ -1,4 +1,4 @@
-# Visão de Dados (MER)
+# **Visão de Dados (MER)**
 
 O Modelo Entidade-Relacionamento (MER) descreve a estrutura lógica do banco de dados PostgreSQL da aplicação. Ele é definido pelo script SQL encontrado em `Back/postgres_init/banco.sql` e visualizado no diagrama abaixo.
 

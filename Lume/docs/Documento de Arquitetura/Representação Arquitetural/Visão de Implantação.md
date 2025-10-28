@@ -1,4 +1,4 @@
-# Visão de Implantação
+# **Visão de Implantação**
 
 - **Ambiente de Desenvolvimento Local:** O software é implantado localmente utilizando **Docker Compose**.
     - O Banco de Dados **PostgreSQL (v16-alpine)** roda em um contêiner Docker (`db`).
